@@ -1,0 +1,179 @@
+﻿[
+  {
+    "id": "c68f38fc-0a77-4a83-b1f1-ea6fbc4f830d",
+    "author": "Jeffrey Richter",
+    "description": "Dig deep and master the intricacies of the common language runtime, C#, and .NET development. Led by programming expert Jeffrey Richter, a longtime consultant to the Microsoft .NET team - you’ll gain pragmatic insights for building robust, reliable, and responsive apps and components.",
+    "isbn": "0735667454",
+    "price": 35.42,
+    "publisher": "Microsoft Press, 2012",
+    "rating": 4.8,
+    "name": "CLR via C#",
+    "title": "CLR via C#"
+  },
+  {
+    "id": "67aa9820-c75c-49ef-9180-cc865d26ba6f",
+    "author": "Ben Watson",
+    "description": "This book does not just teach you how the CLR works – it teaches you exactly what you need to do now to obtain the best performance today. It will expertly guide you through the nuts and bolts of extreme performance optimization in .NET, complete with in-depth examinations of CLR functionality, free tool recommendations and tutorials, useful anecdotes, and step-by-step guides to measure and improve performance.",
+    "isbn": "0990583457",
+    "price": 34.99,
+    "publisher": "Ben Watson, 2018",
+    "rating": 4.4,
+    "name": "High-Performance .NET Code",
+    "title": "Writing High-Performance .NET Code"
+  },
+  {
+    "id": "93bde34a-8f64-4170-939c-9891af75c00d",
+    "author": "Mr Riccardo Terrell",
+    "description": "Functional Concurrency in .NET teaches readers how to build concurrent and scalable programs in .NET using the functional paradigm. This intermediate-level guide is aimed at developers, architects, and passionate computer programmers.",
+    "isbn": "9781617292996",
+    "price": 45.99,
+    "publisher": "Manning Publications, 2018",
+    "rating": 5,
+    "name": "Concurrency in .NET",
+    "title": "Concurrency in .NET: Modern patterns of concurrent and parallel programming"
+  },
+  {
+    "id": "a95b0a23-ebd4-4c6e-988c-226a96a94503",
+    "author": " Robert C. Martin",
+    "description": "Building upon the success of best-sellers The Clean Coder and Clean Code, legendary software craftsman Robert C. \"Uncle Bob\" Martin shows how to bring greater professionalism and discipline to application architecture and design.",
+    "isbn": "0134494164",
+    "price": 19.79,
+    "publisher": "Prentice Hall, 2017",
+    "rating": 3.8,
+    "name": "Clean Architecture",
+    "title": "Clean Architecture: A Craftsman's Guide to Software Structure and Design"
+  },
+  {
+    "id": "460dd749-045f-48f1-90ab-123bba57d248",
+    "author": "Gary McLean Hall",
+    "description": "By applying this book’s principles, you can create code that accommodates new requirements and unforeseen scenarios without significant rewrites. Gary McLean Hall describes Agile best practices, principles, and patterns for designing and writing code that can evolve more quickly and easily, with fewer errors, because it doesn’t impede change.",
+    "isbn": "1509302581",
+    "price": 26.74,
+    "publisher": "Microsoft Press, 2017",
+    "rating": 4.4,
+    "name": "Adaptive Code",
+    "title": "Adaptive Code: Agile coding with design patterns and SOLID principles"
+  },
+  {
+    "id": "1bd9b269-ca52-405d-8fd9-e13d78253999",
+    "author": "Stuart Ratcliffe",
+    "description": "This book will walk you through the process of developing an e-commerce application from start to finish, utilizing an ASP.NET Core web API and Vue.js Single-Page Application (SPA) frontend.",
+    "isbn": "1788839463",
+    "price": 32.99,
+    "publisher": "Packt Publishing, 2018",
+    "rating": 5,
+    "name": "ASP.NET Core 2nd and Vue.js",
+    "title": "ASP.NET Core 2nd and Vue.js"
+  },
+  {
+    "id": "0f2931df-0586-41be-b486-b69197745587",
+    "author": "Sam Newman",
+    "description": "Distributed systems have become more fine-grained in the past 10 years, shifting from code-heavy monolithic applications to smaller, self-contained microservices. But developing these systems brings its own set of headaches. With lots of examples and practical advice, the second edition of this practical book takes a holistic view of the topics that system architects and administrators must consider when building, managing, and evolving microservice architectures. Microservice technologies are moving quickly, and this revised edition gets you up to date with a new chapter on serverless and cloud-native applications, expanded coverage of user interfaces, more hands-on code examples, and other additions throughout the book. Author Sam Newman provides you with a firm grounding in the concepts while diving into current solutions for modeling, integrating, testing, deploying, and monitoring your own autonomous services. You'll follow a fictional company throughout the book to learn how building a microservice architecture affects a single domain.",
+    "isbn": "1492034029",
+    "price": 31.19,
+    "publisher": "O′Reilly, 2015",
+    "rating": 4,
+    "name": "Building Microservices",
+    "title": "Building Microservices"
+  },
+  {
+    "id": "5c166ccf-8287-4c17-a8ba-6818ec4589ad",
+    "author": "Jon Smith",
+    "description": "Reading and storing data is a core part of any application, and .NET developers want database access to be easy and intuitive. Entity framework Core is a .NET library designed to simplify data persistence, bridging the mismatch between the different structures of object-oriented code and relational databases.",
+    "isbn": "161729456X",
+    "price": 27.99,
+    "publisher": "Manning Publications, 2018",
+    "rating": 5,
+    "name": "Entity Framework Core in Action",
+    "title": "Entity Framework Core in Action"
+  },
+  {
+    "id": "b4c3a3d1-c31d-4516-8c30-79dac3a92663",
+    "author": "Sandi Metz",
+    "description": "Ruby’s widely admired simplicity has a downside: too many Ruby and Rails applications have been created without concern for their long-term maintenance or evolution. The Web is awash in Ruby code that is now virtually impossible to change or extend. This text helps you solve that problem by using powerful real-world object-oriented design techniques, thoroughly explained via simple and practical Ruby examples.",
+    "isbn": "9780134456478",
+    "price": 32.10,
+    "publisher": "Addison Wesley, 2018",
+    "rating": 4.7,
+    "name": "Practical Object-Oriented Design",
+    "title": "Practical Object-Oriented Design: An Agile Primer Using Ruby"
+  },
+  {
+    "id": "4f5b546b-437d-4869-8a7b-a76d529b962d",
+    "author": "Eric Evans",
+    "description": "This is not a book about specific technologies. It offers readers a systematic approach to domain-driven design, presenting an extensive set of design best practices, experience-based techniques, and fundamental principles that facilitate the development of software projects facing complex domains. Intertwining design and development practice, this book incorporates numerous examples based on actual projects to illustrate the application of domain-driven design to real-world software development.",
+    "isbn": "0321125215",
+    "price": 41.30,
+    "publisher": "Addison Wesley, 2003",
+    "rating": 3.8,
+    "name": "Domain-Driven Design",
+    "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software"
+  },
+  {
+    "id": "117fa0bf-6bcd-475f-a508-67171247ada6",
+    "author": "Robert Martin",
+    "description": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way. Noted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship . Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code “on the fly” into a book that will instill within you the values of a software craftsman and make you a better programmer—but only if you work at it. What kind of work will you be doing? You’ll be reading code—lots of code. And you will be challenged to think about what’s right about that code, and what’s wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft. Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code—of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and “smells” gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code. Readers will come away from this book understanding How to tell the difference between good and bad code How to write good code and how to transform bad code into good code How to create good names, good functions, good objects, and good classes How to format code for maximum readability How to implement complete error handling without obscuring code logic How to unit test and practice test-driven development This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code.",
+    "isbn": "9780132350884",
+    "price": 33.56,
+    "publisher": "Prentice Hall, 2008",
+    "rating": 4.4,
+    "name": "Clean Code",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship"
+  },
+  {
+    "id": "0b110160-1f4c-4633-92c8-6ee07e2e31a3",
+    "author": "Chris Ferrie",
+    "description": "Written by an expert, Quantum Physics for Babies is a colorfully simple introduction to the principle that gives quantum physics its name. Babies (and grownups!) will discover that the wild world of atoms never comes to a standstill. With a tongue-in-cheek approach that adults will love, this installment of the Baby University board book series is the perfect way to introduce basic concepts to even the youngest scientists. After all, it's never too early to become a quantum physicist!",
+    "isbn": "1492656224",
+    "price": 13.86,
+    "publisher": "Sourcebooks Jabberwocky, 2017",
+    "rating": 4.1,
+    "name": "Quantum Physics for Babies",
+    "title": "Quantum Physics for Babies",
+    "isBestseller": true
+  },
+  {
+    "id": "08d4be48-1993-4862-ab14-c2226bf1270e",
+    "author": "Konrad Kokosa",
+    "description": "Understand .NET memory management internal workings, pitfalls, and techniques in order to effectively avoid a wide range of performance and scalability problems in your software. Despite automatic memory management in .NET, there are many advantages to be found in understanding how .NET memory works and how you can best write software that interacts with it efficiently and effectively. Pro .NET Memory Management is your comprehensive guide to writing better software by understanding and working with memory management in .NET.",
+    "isbn": "9781484240274",
+    "price": 38.23,
+    "publisher": "Apress, 2018",
+    "rating": 5,
+    "name": "Pro .NET Memory Management",
+    "title": "Pro .NET Memory Management: For Better Code, Performance, and Scalability"
+  },
+  {
+    "id": "f5c43b4c-22dc-4ecb-b0bc-90c73444eee4",
+    "author": "Chris Farrell, Nick Harrison",
+    "description": "This book starts with an introduction to the core concepts of .NET memory management and garbage collection, and then quickly layers on additional details and intricacies. Once you're up to speed, you can dive into the guided troubleshooting tour, and tips for engineering your application to maximise performance. And to finish off, take a look at some more sophisticated considerations, and even a peek inside the Windows memory model.",
+    "isbn": "1906434748",
+    "price": 29.49,
+    "publisher": "Red Gate Books, 2013",
+    "rating": 4.3,
+    "name": "Under the Hood of .NET Memory Management",
+    "title": "Under the Hood of .NET Memory Management"
+  },
+  {
+    "id": "3f52310d-25d4-4f9d-8f72-4d6c87042390",
+    "author": "Joshua Kerievsky",
+    "description": "In 1994, DESIGN PATTERNS changed the landscape of object-oriented development by introducing classic Solutions to recurring design problems. In 1999, REFACTORING revolutionized design by introducing an effective process for improving code. With the highly-anticipated REFACTORING TO PATTERNS, Joshua Kerievsky has changed our approach to design by forever uniting patterns with the evolutionary process of refactoring. This book introduces the theory and practice of pattern-directed refactorings: sequences of low-level refactorings that allow designers to safely move designs to, towards, or away from pattern implementations. Using code from real-world projects, Kerievsky documents the thinking and steps underlying over two dozed pattern-based design transformations. Along the way he offers insights into pattern differences and how to implement patterns in the simplest possible ways.",
+    "isbn": "0321213351",
+    "price": 61.89,
+    "publisher": "Addison-Wesley Professional, 2004",
+    "rating": 4.1,
+    "name": "Refactoring to Patterns",
+    "title": "Refactoring to Patterns"
+  },
+  {
+    "id": "501791ad-7a1c-464a-a585-7fd000a0e253",
+    "author": " Charles Petzold",
+    "description": "\"Programming Legend Charles Petzold unlocks the secrets of the extraordinary and prescient 1936 paper by Alan M. Turing Mathematician Alan Turing invented an imaginary computer known as the Turing Machine; in an age before computers, he explored the concept of what it meant to be computable, creating the field of computability theory in the process, a foundation of present-day computer programming. The book expands Turing's original 36-page paper with additional background chapters and extensive annotations; the author elaborates on and clarifies many of Turing's statements, making the original difficult-to-read document accessible to present day programmers, computer science majors, math geeks, and others. Interwoven into the narrative are the highlights of Turing's own life: his years at Cambridge and Princeton, his secret work in cryptanalysis during World War II, his involvement in seminal computer projects, his speculations about artificial intelligence, his arrest and prosecution for the crime of gross indecency and his early death by apparent suicide at the age of 41.",
+    "isbn": "0470229055",
+    "price": 16.33,
+    "publisher": "Wiley, 2008",
+    "rating": 4.5,
+    "name": "The Annotated Turing",
+    "title": "The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine"
+  }
+]

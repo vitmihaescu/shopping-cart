@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "SqlServerDb": "Server=(local);Database=ShoppingCart;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "SqliteDb": "DataSource=.\\obj\\ShoppingCart.db" 
+  } 
+}

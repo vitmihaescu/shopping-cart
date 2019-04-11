@@ -1,0 +1,60 @@
+/*
+    https://codepen.io/nxworld/pen/oLdoWb
+*/
+
+.ribbon {
+    width: 145px;
+    height: 145px;
+    overflow: hidden;
+    position: absolute;
+    z-index: 1;
+}
+
+.ribbon::before, .ribbon::after {
+    position: absolute;
+    z-index: -1;
+    content: '';
+    display: block;
+    border: 2px solid rgb(1, 134, 112);
+}
+
+.ribbon span {
+    position: absolute;
+    display: block;
+    width: 225px;
+    padding: 12px 0;
+    background-color: #26A69A;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, .3);
+    color: #fff;
+    font: 700 18px/1 'Lato', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* top left*/
+
+.ribbon-top-left {
+    top: -4px;
+    left: -4px;
+}
+
+.ribbon-top-left::before, .ribbon-top-left::after {
+    border-top-color: transparent;
+    border-left-color: transparent;
+}
+
+.ribbon-top-left::before {
+    top: 0;
+    right: 0;
+}
+
+.ribbon-top-left::after {
+    bottom: 0;
+    left: 0;
+}
+
+.ribbon-top-left span {
+    right: -28px;
+    top: 35px;
+    transform: rotate(-45deg);
+}

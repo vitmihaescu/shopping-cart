@@ -1,0 +1,2 @@
+dotnet ef migrations remove -c SqlServerDbContext -p ../src/Vit.ShoppingCart.Persistence -s ../src/Vit.ShoppingCart.Web
+dotnet ef migrations remove -c SqliteDbContext    -p ../src/Vit.ShoppingCart.Persistence -s ../src/Vit.ShoppingCart.Web

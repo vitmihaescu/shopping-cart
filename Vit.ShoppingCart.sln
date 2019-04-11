@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vit.ShoppingCart.Domain", "src\Vit.ShoppingCart.Domain\Vit.ShoppingCart.Domain.csproj", "{B7CEDD4F-6692-46B6-8AEF-37B9617815BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vit.ShoppingCart.Application", "src\Vit.ShoppingCart.Application\Vit.ShoppingCart.Application.csproj", "{F4C4F10A-F0DF-49EB-AC94-B36953B9BD79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{FF566239-56FA-4893-9CC3-122E0C946959}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vit.ShoppingCart.Web", "src\Vit.ShoppingCart.Web\Vit.ShoppingCart.Web.csproj", "{F9271939-63DD-4654-AE7A-6E6D057D5509}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{F8F25F38-F39B-4451-B4A6-6B77B43FE2C2}"
+	ProjectSection(SolutionItems) = preProject
+		tools\AddMigration.cmd = tools\AddMigration.cmd
+		tools\RemoveMigration.cmd = tools\RemoveMigration.cmd
+		tools\UpdateDatabase.cmd = tools\UpdateDatabase.cmd
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vit.ShoppingCart.Tests", "test\Vit.ShoppingCart.Tests\Vit.ShoppingCart.Tests.csproj", "{CC7D5028-9672-482F-B060-D0FE89CD157C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vit.ShoppingCart.Persistence", "src\Vit.ShoppingCart.Persistence\Vit.ShoppingCart.Persistence.csproj", "{C809574A-3FDC-424F-A7C6-D24EDB556F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CEDD4F-6692-46B6-8AEF-37B9617815BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CEDD4F-6692-46B6-8AEF-37B9617815BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CEDD4F-6692-46B6-8AEF-37B9617815BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CEDD4F-6692-46B6-8AEF-37B9617815BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C4F10A-F0DF-49EB-AC94-B36953B9BD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C4F10A-F0DF-49EB-AC94-B36953B9BD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C4F10A-F0DF-49EB-AC94-B36953B9BD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C4F10A-F0DF-49EB-AC94-B36953B9BD79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9271939-63DD-4654-AE7A-6E6D057D5509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9271939-63DD-4654-AE7A-6E6D057D5509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9271939-63DD-4654-AE7A-6E6D057D5509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9271939-63DD-4654-AE7A-6E6D057D5509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7D5028-9672-482F-B060-D0FE89CD157C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7D5028-9672-482F-B060-D0FE89CD157C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7D5028-9672-482F-B060-D0FE89CD157C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7D5028-9672-482F-B060-D0FE89CD157C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C809574A-3FDC-424F-A7C6-D24EDB556F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C809574A-3FDC-424F-A7C6-D24EDB556F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C809574A-3FDC-424F-A7C6-D24EDB556F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C809574A-3FDC-424F-A7C6-D24EDB556F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC7D5028-9672-482F-B060-D0FE89CD157C} = {FF566239-56FA-4893-9CC3-122E0C946959}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FE28AB5-7670-4431-AAB2-2267CB53CC95}
+	EndGlobalSection
+EndGlobal

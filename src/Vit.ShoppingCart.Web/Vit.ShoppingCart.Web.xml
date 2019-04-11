@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Vit.ShoppingCart.Web</name>
+    </assembly>
+    <members>
+        <member name="T:Vit.ShoppingCart.Web.Api.BooksController">
+            <summary>
+            ShoppingCart API for Books
+            </summary>
+        </member>
+        <member name="T:Vit.ShoppingCart.Web.Api.OrdersController">
+            <summary>
+                ShoppingCart API for Orders
+            </summary>
+        </member>
+        <member name="T:Vit.ShoppingCart.Web.Api.PaymentsController">
+            <summary>
+            ShoppingCart API for Payments
+            </summary>
+        </member>
+    </members>
+</doc>

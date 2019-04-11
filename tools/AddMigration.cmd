@@ -1,0 +1,2 @@
+dotnet ef migrations add %1 -c SqlServerDbContext -o Migrations/SqlServer -p ../src/Vit.ShoppingCart.Persistence -s ../src/Vit.ShoppingCart.Web
+dotnet ef migrations add %1 -c SqliteDbContext    -o Migrations/Sqlite    -p ../src/Vit.ShoppingCart.Persistence -s ../src/Vit.ShoppingCart.Web
