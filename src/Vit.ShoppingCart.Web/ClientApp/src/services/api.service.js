@@ -12,6 +12,6 @@ export default {
   },
 
   async put(resource, data) {
-    (await axios.put(`${baseUrl}api/v1/${resource}`, data)).data;
+    return (await axios.put(`${baseUrl}api/v1/${resource}`, data)).data;
   }
 };
